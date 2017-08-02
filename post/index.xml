@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hiromisuzuki.github.io</title>
+    <link>https://hiromisuzuki.github.io/post/</link>
+    <description>Recent content in Posts on hiromisuzuki.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp-ja</language>
+    <copyright>hiromisuzuki</copyright>
+    <lastBuildDate>Wed, 02 Aug 2017 09:58:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://hiromisuzuki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>やっとこさ公開</title>
+      <link>https://hiromisuzuki.github.io/2017/08/02/release/</link>
+      <pubDate>Wed, 02 Aug 2017 09:58:46 +0900</pubDate>
+      
+      <guid>https://hiromisuzuki.github.io/2017/08/02/release/</guid>
+      <description>github.ioで公開する方法に手間取った。
+qiitaとかすごく色々読んだけど思うようにいかず。
+だけども、githubのsettingsのgithub pagesのところを見たら、どうすればいいかすぐ理解できた。
+特に難しそうことではなかった。はてなブログで今度まとめよう。</description>
+    </item>
+    
+    <item>
+      <title>github.ioはじめました</title>
+      <link>https://hiromisuzuki.github.io/2017/08/01/first/</link>
+      <pubDate>Tue, 01 Aug 2017 12:50:09 +0900</pubDate>
+      
+      <guid>https://hiromisuzuki.github.io/2017/08/01/first/</guid>
+      <description>8月なので冷やし中華的な気持ちでgithub.ioをはじめました。
+markdownでにょろにょろ書けて使いやすそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
