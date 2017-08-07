@@ -36,7 +36,7 @@ hugo new site quickstart  カレントディレクトリに quickstart という
 テーマのページにインストールする方法が載ってます。
 4.設定ファイルを作成する quickstart/config.toml にインストールしたテーマ名と、サイトの情報などを設定します。
 $ vi quickstart/config.toml baseurl = &amp;quot;https://username.github.io/&amp;quot; title = &amp;quot;username.github.io&amp;quot; theme = &amp;quot;hugotheme&amp;quot; languageCode = &amp;quot;jp-ja&amp;quot; copyright = &amp;quot;username&amp;quot; canonifyurls = true ...  5.ローカルで動かしてみよう cd quickstart hugo server  とすると、http://localhost:1313/ でサービスを確認できるようになります。
-今日はここまで。続きのちほど！</description>
+7.ビルド 今度は</description>
     </item>
     
     <item>
